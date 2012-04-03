@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Enhanced Tabs with ScrolledPageBook
+Bundle-SymbolicName: EnhancedTabsWithScrolledPageBook
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Vincent Zurczak
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.ui.forms
