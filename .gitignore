@@ -1,20 +1,10 @@
-target/
-local/
-.git/
+*.class
 
-# Eclipse, Netbeans and IntelliJ files
-/.*
-!.gitignore
-/nbproject
-/*.ipr
-/*.iws
-/*.iml
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# Repository wide ignore mac DS_Store files
-.DS_Store
-
-# additional stuff
-.metadata/
-bin/
-.settings/
-*.swp
+.settings
+bin
+/.project
